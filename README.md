@@ -8,11 +8,13 @@ I'm Joseph, a Computer Science student at Virginia Tech!
 * Getting better at Leetcode
 * Completing my portfolio website
 * LocksAI Project
+* Staying consistent
 
 ⚡ Interests: 
 * Working out
 * Playing piano (I'm not that good)
 * Sportsbetting
+
 <!--
 **josephvutrinh/josephvutrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
