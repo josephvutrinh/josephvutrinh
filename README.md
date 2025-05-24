@@ -12,7 +12,7 @@ I'm Joseph, a Computer Science student at Virginia Tech!
 
 ⚡ Interests: 
 * Working out
-* Pickleball
+* Golf
 * Playing piano (I'm not that good)
 * Sportsbetting
 
