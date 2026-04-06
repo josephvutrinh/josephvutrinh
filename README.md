@@ -3,18 +3,13 @@ I'm Joseph, a Computer Science student at Virginia Tech!
 
 💼 Work Experience:
 * **Full Stack Developer Intern @ Engauge** [Sep 2024 - Dec 2024]
-
-🔭 I’m currently working on
-* Getting better at Leetcode
-* Completing my portfolio website
-* LocksAI Project
-* Staying consistent
+* **Undergraduate Researcher** [Jan 2026 - Present]
+* **Undergraduate Teaching Assistant** [Jan 2026 - Present]
 
 ⚡ Interests: 
 * Working out
 * Golf
-* Playing piano (I'm not that good)
-* Sportsbetting
+* Tennis
 
 <!--
 **josephvutrinh/josephvutrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
