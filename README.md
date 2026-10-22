@@ -4,7 +4,7 @@ I'm Joseph, a Computer Science student at Virginia Tech!
 💼 Work Experience:
 * **Incoming Software Engineer Intern @ Leidos** [Jan 2027 - Aug 2027] 
 * **Web Developer** [Jul 2026 - Present]
-* **Software Developer** [Jun 2026 - Present]
+* **Software Developer @ Virginia Tech Dept of CS** [Jun 2026 - Present]
 * **Undergraduate Teaching Assistant** [Jan 2026 - Present]
 * **Undergraduate Researcher** [Jan 2026 - Jun 2026]
 * **Full Stack Developer Intern @ Engauge** [Sep 2024 - Dec 2024]
