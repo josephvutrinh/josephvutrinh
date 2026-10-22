@@ -2,11 +2,12 @@
 I'm Joseph, a Computer Science student at Virginia Tech!
 
 💼 Work Experience:
-* **Full Stack Developer Intern @ Engauge** [Sep 2024 - Dec 2024]
-* **Undergraduate Researcher** [Jan 2026 - June 2026]
+* **Incoming Software Engineer Intern** [Jan 2027 - Aug 2027] 
+* **Web Developer** [Jul 2026 - Present]
+* **Software Developer** [Jun 2026 - Present]
 * **Undergraduate Teaching Assistant** [Jan 2026 - Present]
-* **Software Developer** [June 2026 - Present]
-* **Web Developer** [July 2026- Present]
+* **Undergraduate Researcher** [Jan 2026 - Jun 2026]
+* **Full Stack Developer Intern @ Engauge** [Sep 2024 - Dec 2024]
 
 ⚡ Interests: 
 * Working out
